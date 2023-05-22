@@ -1,9 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:linux",
-  "features": {
-    "ghcr.io/devcontainers/features/hugo:1": {
-      "version": "latest",
-      "extended": true
-    }
-  }
+  "image": "klakegg/hugo:0.107.0-ext-ubuntu",
+  "features": {}
 }
